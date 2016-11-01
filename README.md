@@ -11,7 +11,8 @@ Ele tambem permite o envio de sms para um contato selecionado da lista.
 
 # ScreenShots
 
-![screeshot1](recursos/imgs/Capturar1.png)
+![screeshot1](recursos/imgs/capturar1.PNG) ![screeshot2](recursos/imgs/Capturar2.PNG)
+
 
 
 
