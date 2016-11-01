@@ -19,7 +19,6 @@ Ele tambem permite o envio de sms para um contato selecionado da lista.
 # Tutorial do minicurso 
 
 O passo-a-passo para construção do projeto está disponivel na pasta recursos.
-
-
+<a href= "https://github.com/rudda/minicurso-android-SNCT16/tree/master/recursos/tutorial"> link do tutorial </a>
 
 
